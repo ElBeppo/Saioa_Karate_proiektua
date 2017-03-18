@@ -3,4 +3,9 @@
 
 
     <string name="btnHasiJokatzen">Empezar Campeonato</string>
+    <string name="ID">ID: </string>
+    <string name="Izena">Izena: </string>
+    <string name="Lekua">Lekua: </string>
+    <string name="Fetxa">Fetxa: </string>
+
 </resources>
